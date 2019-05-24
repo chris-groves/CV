@@ -6,13 +6,19 @@ And then a sentence about what you're looking for: what you would ideally be doi
 
 ## Skills
 
-#### This Skill
+#### Problem Solving
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
-- Experience
+- Experience - 
 - Achievements
 - Evidence
+
+Ability to interpret instructions and develop prodecural programs.
+
+Have written numerous programs including the card game Blackjack; Rock, Paper, Scissors plus multiple mini games.
+
+Gained the ability to break instructions down into small parts and translate these into code.
 
 #### Another Skill
 
@@ -27,7 +33,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (May 2019 to August 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
+- Curious and passionate about code - started off predominately self taught. Began with Codeacademy Ruby and Codewars. Used Makers Pair Up to sharpen my skills of problem solving and interpreting error messages. 
 - Fast, independent learner [PROVIDE EVIDENCE]
 - Great collaborator [PROVIDE EVIDENCE]
 
@@ -59,11 +65,15 @@ Viewed first hand how users interact with software/applications
 
 
 
+
 **London Probation Trust/National Probation Service** (March 2013 to September 2014)   
 
 *Business Support Manager for Serious Group Offending (Street Gangs) Team*
 
 Analysed and presented data to gain insights into gang offending and support strategic decision making
+
+
+
 
 **London Probation Trust** (May 2010 to March 2013) 
 
@@ -71,6 +81,8 @@ Analysed and presented data to gain insights into gang offending and support str
 
 Analysed data to gain insight on workloads and staff performance to support decision making and staff management
 Used software to write bespoke database queries
+
+
 
 
 **London Probation Trust** (September 2009 to May 2010)
