@@ -1,6 +1,8 @@
 ## Chris Groves
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A trainee Junior Developer at a top software development bootcamp. Have experience in training users of applications and data analysis. 
+Then a sentence about what you've achieved. 
+And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
 
@@ -38,7 +40,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - Politics and International Relations BA
 - 2:1
-- Wrote dissertation on the contribution of General Elections to democracy in the UK
+- Included study of landmark dates in history, sociology and contemporary social issues, ideologies, European Political Integration, Politics of the UK/US, politics between countries (the 'anarchical system') and politics in the Middle East. Dissertation assessed the contribution of General Elections to democracy in the UK.
 
 #### Chislehurst and Sidcup Grammar School (1999 to 2006)
 
@@ -51,13 +53,25 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 *ICT Training Specialist*
 
+Responsible for training over 1000 users.
+Colloborated on design and production of national ICT training curriculum.
+Viewed first hand how users interact with software/applications
+
+
+
 **London Probation Trust/National Probation Service** (March 2013 to September 2014)   
 
-*Business Support Manager*  
+*Business Support Manager for Serious Group Offending (Street Gangs) Team*
+
+Analysed and presented data to gain insights into gang offending and support strategic decision making
 
 **London Probation Trust** (May 2010 to March 2013) 
 
 *Performance and Quality Analyst*  
+
+Analysed data to gain insight on workloads and staff performance to support decision making and staff management
+Used software to write bespoke database queries
+
 
 **London Probation Trust** (September 2009 to May 2010)
 
