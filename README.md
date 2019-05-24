@@ -1,4 +1,4 @@
-## Your Name
+## Chris Groves
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
@@ -23,7 +23,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (May 2019 to August 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -34,17 +34,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### University of Reading (2006 to 2009)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Politics and International Relations BA
+- 2:1
+- Wrote dissertation on the contribution of General Elections to democracy in the UK
 
-#### Any other qualifications
+#### Chislehurst and Sidcup Grammar School (1999 to 2006)
+
+- 3 A Levels in Politics, History and Geography
+- 10 GCSEs
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**National Probation Service** (September 2014 to April 2019)    
+*ICT Training Specialist*
+**London Probation Trust/National Probation Service** (March 2013 to September 2014)   
+*Business Support Manager*  
+**London Probation Trust** (May 2010 to March 2013)   
+*Performance and Quality Analyst*  
+**London Probation Trust** (September 2009 to May 2010)
+*Legal Proceedings Administrator*
