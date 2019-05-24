@@ -47,11 +47,18 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**National Probation Service** (September 2014 to April 2019)    
+**National Probation Service** (September 2014 to April 2019) 
+
 *ICT Training Specialist*
+
 **London Probation Trust/National Probation Service** (March 2013 to September 2014)   
+
 *Business Support Manager*  
-**London Probation Trust** (May 2010 to March 2013)   
+
+**London Probation Trust** (May 2010 to March 2013) 
+
 *Performance and Quality Analyst*  
+
 **London Probation Trust** (September 2009 to May 2010)
+
 *Legal Proceedings Administrator*
