@@ -1,10 +1,14 @@
 ## Chris Groves
 
-A Junior Developer and a August 2019 graduate of the Makers Academy software development bootcamp. 
+A full stack junior developer and a August 2019 graduate of the Makers Academy software development bootcamp. 
 
-Prior to attending the bootcamp, I taught staff in the National Probation Service how to get the best from the organisation's internal software and applications. My role as a Training Specialist (ICT) gave me a great insight into how staff interact with applications and sparked my curiosity as to how they are developed. Staff would often ask me if certain features could be implemented (questions which I could not answer), prompting me to investigate and ultimately chose a career in software development.
+Prior to attending the bootcamp, I taught staff in the National Probation Service how to get the best from the organisation's internal software and applications. My role as a Training Specialist (ICT) gave me a great insight into how staff interact with applications and sparked my curiosity as to how they are developed. Staff would often ask me if certain features could be implemented (questions which I could not answer at the time), prompting me to investigate and ultimately chose a career in software development.
 
-And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+
+
+I am looking for my first role in a supportive team where I can add value and grow as a developer.
+
+
 
 ## Skills
 
