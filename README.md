@@ -1,7 +1,9 @@
 ## Chris Groves
 
-A trainee Junior Developer at a top software development bootcamp. Have experience in training users of applications and data analysis. 
-Then a sentence about what you've achieved. 
+A Junior Developer and a August 2019 graduate of the Makers Academy software development bootcamp. 
+
+Prior to attending the bootcamp, I taught staff in the National Probation Service how to get the best from the organisation's internal software and applications. My role as a Training Specialist (ICT) gave me a great insight into how staff interact with applications and sparked my curiosity as to how they are developed. Staff would often ask me if certain features could be implemented (questions which I could not answer), prompting me to investigate and ultimately chose a career in software development.
+
 And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
 
 ## Skills
