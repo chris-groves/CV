@@ -2,10 +2,12 @@
 
 A full stack junior developer and an August 2019 graduate of the Makers Academy software development bootcamp. 
 
-Prior to attending the bootcamp, I taught staff in the National Probation Service how to get the best from the organisation's internal software and applications. My role as a Training Specialist (ICT) gave me a great insight into how staff interact with applications. Colleagues would often ask about certain features and if they could be added or improved. At the time I did not know the technical answers to these but my desire to learn prompted me to investigate and ultimately chose a career in software development.
+Prior to attending the bootcamp, I taught staff in the National Probation Service how to get the best from the organisation's internal software and applications. I enjoyed learning new software and then presenting my understanding to staff in creative and engaging ways.
+
+My role as a trainer gave me a great insight into how staff interact with applications. Colleagues would often ask about certain features and if they could be added or improved. At the time I did not know the technical answers to these but my desire to learn prompted me to investigate and ultimately chose a career in software development.
 
 
-I am looking for my first role in a supportive team where I can add value and grow as a developer.
+I am looking for my first role in a supportive and ambitous team where I can add value and grow as a developer.
 
 ## Skills
 
