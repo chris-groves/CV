@@ -9,7 +9,19 @@ My role as a trainer gave me a great insight into how staff interact with applic
 
 I am looking for my first role in a supportive and ambitous team where I can add value and grow as a developer.
 
+```LinkedIn```
+
+## Key Projects
+
+FizzBuzz
+Dragon Pirates
+Acebook
+
 ## Skills
+
+Teaching/Learning
+Collaborator/team member
+Process
 
 #### Problem Solving
 
