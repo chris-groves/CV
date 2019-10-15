@@ -19,9 +19,20 @@ Acebook
 
 ## Skills
 
-Teaching/Learning
+
+Love for Learning
+Trainer - new software eg new SOTP system, in line with business processes/workflow - booking service users onto groups, 
+Makers - 'hard' and 'soft' skills - Fizzbuzz Python
+Parent - constantly developing, need to learn something new - new taste in food, new taste in nursery rhymes, change in sleeping pattern
+
+Engaging teacher
+Closely linked to learning
+Trainer - not just imparting knowledge - make engaging, relevant to role
+
 Collaborator/team member
-Process
+Work together to produce outcomes
+eg IT Trainer - developed curriculum together
+Makers - several team projects eg Dragon Pirates - on and off project, Acebook
 
 #### Problem Solving
 
