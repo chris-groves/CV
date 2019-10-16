@@ -19,9 +19,13 @@ Acebook
 
 ## Skills
 
+Committed Learner
 
-Love for Learning
-Trainer - new software eg new SOTP system, in line with business processes/workflow - booking service users onto groups, 
+Working as an IT Trainer required me to always learn new applications and features. I needed to not only understand the new content but also be prepared to share it with staff whilst linking it to businesses processes. I supported a team who worked with service users convicted of sexual offences when a new application was released to manage their work. I began by learning the application's functionality and then linking this to day to day team operations, such as booking service users onto class sessions and recording attendance. 
+
+Whilst studying at Makers Academy, I picked up the ability to learn new programming languages. The first half of the course was Ruby based, with JavaScript introduced half way through. Since finishing the course I have learnt Python and its Unittest testing framework from scratch to write a 'Fizzbuzz' programme (https://github.com/chris-groves/FizzBuzz-Python-Unittest).
+
+
 Makers - 'hard' and 'soft' skills - Fizzbuzz Python
 Parent - constantly developing, need to learn something new - new taste in food, new taste in nursery rhymes, change in sleeping pattern
 
