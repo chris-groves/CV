@@ -19,7 +19,7 @@ Acebook
 
 ## Skills
 
-Committed Learner
+### Committed Learner
 
 Working as an IT Trainer required me to always learn new applications and features. I needed to not only understand the new content but also be prepared to share it with staff whilst linking it to businesses processes. I supported a team who worked with service users convicted of sexual offences when a new application was released to manage their work. I began by learning the application's functionality and then linking this to day to day team operations, such as booking service users onto class sessions and recording attendance. Offered drop in training sessions and bespoke sessions for new starters etc - always learning from staff
 
@@ -29,9 +29,7 @@ Whilst studying at Makers Academy, I picked up the ability to learn new programm
 Makers - 'hard' and 'soft' skills - Fizzbuzz Python
 Parent - constantly developing, need to learn something new - new taste in food, new taste in nursery rhymes, change in sleeping pattern
 
-Engaging teacher
-Closely linked to learning
-Trainer - not just imparting knowledge - make engaging, relevant to role
+### Teamwork
 
 Collaborator/team member
 Work together to produce outcomes
