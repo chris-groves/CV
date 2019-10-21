@@ -26,10 +26,6 @@ I am great at working with others to produce outcomes. Working as an IT Trainer,
 
 #### Makers Academy (May 2019 to August 2019)
 
-- Curious and passionate about code - started off predominately self taught. Began with Codeacademy Ruby and Codewars. Used Makers Pair Up to sharpen my skills of problem solving and interpreting error messages. 
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
