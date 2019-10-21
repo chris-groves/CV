@@ -18,6 +18,10 @@ Working as an IT Trainer required me to always learn new applications and featur
 
 Whilst studying at Makers Academy, I picked up the ability to learn new programming languages. The first half of the course was Ruby based, with JavaScript introduced half way through. Since finishing the course I have learnt Python and its Unittest testing framework from scratch to write a 'Fizzbuzz' programme (https://github.com/chris-groves/FizzBuzz-Python-Unittest).
 
+### Teamwork
+
+I am great at working with others to produce outcomes. Working as an IT Trainer, I collaborated with my counterparts across the country to produce a national curriculum. I was a new trainer at the time so it was a good opportunity to learn from more experienced colleagues and also offer fresh ideas. I co-wrote lesson plans and materials which were reviewed by my colleagues and provided my own feedback on work done by others. The result was a suite of lesson plans and materials which could be used by new and experienced trainers alike to ensure consistent content in training sessions.
+
 ## Education
 
 #### Makers Academy (May 2019 to August 2019)
