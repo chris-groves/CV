@@ -53,11 +53,13 @@ Colloborated on design and production of national ICT training curriculum.
 Viewed first hand how users interact with software/applications
 
 
+
 **London Probation Trust/National Probation Service** (March 2013 to September 2014)   
 
 *Business Support Manager for Serious Group Offending (Street Gangs) Team*
 
 Analysed and presented data to gain insights into gang offending and support strategic decision making
+
 
 
 **London Probation Trust** (May 2010 to March 2013) 
@@ -66,6 +68,7 @@ Analysed and presented data to gain insights into gang offending and support str
 
 Analysed data to gain insight on workloads and staff performance to support decision making and staff management
 Used software to write bespoke database queries
+
 
 
 **London Probation Trust** (September 2009 to May 2010)
