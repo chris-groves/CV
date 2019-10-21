@@ -6,9 +6,7 @@ Prior to attending the bootcamp, I taught staff in the National Probation Servic
 
 My role as a trainer gave me a great insight into how staff interact with applications. Colleagues would often ask about certain features and if they could be added or improved. At the time I did not know the technical answers to these but my desire to learn prompted me to investigate and ultimately chose a career in software development.
 
-
 I am looking for my first role in a supportive and ambitous team where I can add value and grow as a developer.
-
 
 ## Skills
 
