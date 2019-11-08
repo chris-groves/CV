@@ -8,6 +8,11 @@ My role as a trainer gave me a great insight into how staff interact with applic
 
 I am looking for my first role in a supportive and ambitous team where I can add value and grow as a developer.
 
+| Project Name  | Details       | Tech Used |
+| ------------- | ------------- |-----------|
+| Content Cell  | Content Cell  |           |
+| Content Cell  | Content Cell  |           |
+
 ## Skills
 
 ### Committed Learner
@@ -22,10 +27,14 @@ I am great at working with others to produce outcomes. Working as an IT Trainer,
 
 ## Education
 
-#### Makers Academy (May 2019 to August 2019)
+#### Makers Academy Software Development Bootcamp (May 2019 to August 2019)
+
+with study of:
 
 - OOP, TDD, MVC
-- Agile/XP
+- Agile methodologies
+- Pair programming
+- XP Values - simplicity, communication, feedback, respect and courage
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
