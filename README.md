@@ -24,7 +24,7 @@ I am great at working with others to produce outcomes. Working as an IT Trainer,
 
 #### Makers Academy (May 2019 to August 2019)
 
-- OOP, TDD, MVC, DDD
+- OOP, TDD, MVC
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
