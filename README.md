@@ -8,10 +8,10 @@ My role as a trainer gave me a great insight into how staff interact with applic
 
 I am looking for my first role in a supportive and ambitous team where I can add value and grow as a developer.
 
-| Project Name  | Details       | Tech Used |
-| ------------- | ------------- |-----------|
-| Content Cell  | Content Cell  |           |
-| Content Cell  | Content Cell  |           |
+| Project Name  | Details                                                                 | Tech Used |
+| ------------- | ------------------------------------------------------------------------|-----------|
+| Acebook       | A clone of Facebook developed in a team of six using Agile              |
+| Content Cell  | Content Cell                                                            |           |
 
 ## Skills
 
