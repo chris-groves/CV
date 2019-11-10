@@ -54,7 +54,7 @@ With study of:
 
 ## Experience
 
-**National Probation Service** (September 2014 to April 2019) *ICT Training Specialist*
+**National Probation Service**  *ICT Training Specialist*                               (September 2014 to April 2019)
 
 Sole responsibility for training over 1000 London users.
 Viewed first hand how users interact with software/applications
@@ -84,6 +84,8 @@ Eessential role supporting legal professional by extracting case information rel
 
 - Reading - non-fiction on topics such as productivity, personal development, personal finance, psychology. Two of my favourite books are 'Deep Work' and 'Digital Minimalism' by Cal Newport.
 
-- Crime documentaries - currently watching 'Women Behind Bars' with my wife
-
 - Football - attended matches and followed the ups and downs of Charlton Athletic for over 20 years with my father
+
+- Crime documentaries - currently watching 'Women Behind Bars'
+
+
