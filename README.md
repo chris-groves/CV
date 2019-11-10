@@ -13,26 +13,26 @@ I am looking for my first role in a supportive and ambitous team where I can add
 | Acebook       | A clone of Facebook developed in a team of six using Agile              | Ruby on Rails, Travis CI, Rubocop,                                                                                    RubyCritic, ScaffoLint, SimpleCov |
 | FizzBuzz      | I studied Python and a testing framework from scratch to write this program | Python and Unittest  |     
 | Dragon Pirates| Beginning with the vision of developing a game, I collaborated in a team of six to bring this 2D side scroller game to life| C#, Unity, Visual Studio,  Android |
-                                        |                  |                         
+                                                           
                   
 
 ## Skills
 
 ### Committed Learner
 
-Working as an IT Trainer required me to always learn new applications and features. I needed to not only understand the new content but also be prepared to share it with staff whilst linking it to businesses processes. I supported a team who worked with service users convicted of sexual offences when a new application was released to manage their work. I began by learning the application's functionality and then linking this to day to day team operations, such as booking service users onto class sessions and recording attendance. Offered drop in training sessions and bespoke sessions for new starters etc - always learning from staff
+Working as an IT Trainer required me to always learn new applications and features. I needed to not only understand the new content but also be prepared to share it with staff whilst linking it to businesses processes. I supported a team who worked with service users convicted of sexual offences when a new application was released to manage their work. I began by learning the application's functionality and then linking this to day to day team operations, such as booking service users onto class sessions and recording attendance. 
 
 Whilst studying at Makers Academy, I picked up the ability to learn new programming languages. The first half of the course was Ruby based, with JavaScript introduced half way through. Since finishing the course I have learnt Python and its Unittest testing framework from scratch to write a 'Fizzbuzz' programme (https://github.com/chris-groves/FizzBuzz-Python-Unittest).
 
 ### Teamwork
 
-I am great at working with others to produce outcomes. Working as an IT Trainer, I collaborated with my counterparts across the country to produce a national curriculum. I was a new trainer at the time so it was a good opportunity to learn from more experienced colleagues and also offer fresh ideas. I co-wrote lesson plans and materials which were reviewed by my colleagues and provided my own feedback on work done by others. The result was a suite of lesson plans and materials which could be used by new and experienced trainers alike to ensure consistent content in training sessions.
+I am great at working with others to produce outcomes. Working as an IT Trainer, I collaborated with my counterparts across the country to produce a national curriculum. I was a new trainer at the time so it was a good opportunity to learn from more experienced colleagues and also offer fresh ideas. I co-wrote lesson plans and materials which were reviewed by my colleagues and provided my own feedback on work done by others. The result was a suite of lesson plans and materials which could be used by new and experienced trainers alike to ensure consistent content in training sessions across the country.
 
 ## Education
 
 #### Makers Academy Software Development Bootcamp (May 2019 to August 2019)
 
-with study of:
+With study of:
 
 - OOP, TDD, MVC
 - Agile methodologies
@@ -54,36 +54,31 @@ with study of:
 
 ## Experience
 
-**National Probation Service** (September 2014 to April 2019) 
+**National Probation Service** (September 2014 to April 2019) *ICT Training Specialist*
 
-*ICT Training Specialist*
-
-Responsible for training over 1000 users.
-Colloborated on design and production of national ICT training curriculum.
+Sole responsibility for training over 1000 London users.
 Viewed first hand how users interact with software/applications
+Consistently delivered high quality training sessions using multiple delivery methods
+Colloborated on design and production of national ICT training curriculum for around 8,000 staff
 
 
+**London Probation Trust/National Probation Service** (March 2013 to September 2014) *Business Support Manager for Serious Group Offending (Street Gangs) Team*
 
-**London Probation Trust/National Probation Service** (March 2013 to September 2014)   
-
-*Business Support Manager for Serious Group Offending (Street Gangs) Team*
-
-Analysed and presented data to gain insights into gang offending and support strategic decision making
-
+Influential in the development of a new specialist team for gand related offending
+Crucial role in strategy and operation by providing data analysis and business support
+Nurtured relationships with critical partners such as the Metropolitan Police and the London Mayor's Office for Policing and Crime
 
 
-**London Probation Trust** (May 2010 to March 2013) 
+**London Probation Trust** (May 2010 to March 2013) *Performance and Quality Analyst*  
 
-*Performance and Quality Analyst*  
-
-Analysed data to gain insight on workloads and staff performance to support decision making and staff management
-Used software to write bespoke database queries
+Instrumental in high performance of multiple boroughs through provision of data analysis
+Complex bespoke data queries and reports produced for strategic and operational priorities
 
 
+**London Probation Trust** (September 2009 to May 2010) *Legal Proceedings Administrator*
 
-**London Probation Trust** (September 2009 to May 2010)
+Eessential role supporting legal professional by extracting case information related to non-compliance with Probation supervision
 
-*Legal Proceedings Administrator*
 
 ## Other Interests
 
