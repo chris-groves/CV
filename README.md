@@ -10,7 +10,7 @@ I am looking for my first role in a supportive and ambitous team where I can add
 
 | Project Name  | Details                                                                 | Tech Used                |
 | ------------- | ------------------------------------------------------------------------|--------------------------|
-| Acebook       | A clone of Facebook developed in a team of six using Agile              | Ruby on Rails, Travis CI |
+| Acebook       | A clone of Facebook developed in a team of six using Agile              | Ruby on Rails, Travis CI, Rubocop, RubyCritic, ScaffoLint, SimpleCov |
 | FizzBuzz      | I studied Python and a testing framework from scratch to write this program | Python and Unittest      |                 
 
 ## Skills
