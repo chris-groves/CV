@@ -56,28 +56,28 @@ With study of:
 
 **National Probation Service**  || *ICT Training Specialist* || September 2014 to April 2019
 
-Sole responsibility for training over 1000 London users.
-Viewed first hand how users interact with software/applications
-Consistently delivered high quality training sessions using multiple delivery methods
-Colloborated on design and production of national ICT training curriculum for around 8,000 staff
+- Sole responsibility for training over 1000 London users.
+- Viewed first hand how users interact with software/applications
+- Consistently delivered high quality training sessions using multiple delivery methods
+- Colloborated on design and production of national ICT training curriculum for around 8,000 staff
 
 
 **National Probation Service** || *Business Support Manager* || March 2013 to September 2014
 
-Influential in the development of a new specialist team for gand related offending
-Crucial role in strategy and operation by providing data analysis and business support
-Nurtured relationships with critical partners such as the Metropolitan Police and the London Mayor's Office for Policing and Crime
+- Influential in the development of a new specialist team for gand related offending
+- Crucial role in strategy and operation by providing data analysis and business support
+- Nurtured relationships with critical partners such as the Metropolitan Police and the London Mayor's Office for Policing and Crime
 
 
 **London Probation Trust** || *Performance and Quality Analyst* || May 2010 to March 2013 
 
-Instrumental in high performance of multiple boroughs through provision of data analysis
-Complex bespoke data queries and reports produced for strategic and operational priorities
+- Instrumental in high performance of multiple boroughs through provision of data analysis
+- Complex bespoke data queries and reports produced for strategic and operational priorities
 
 
 **London Probation Trust** || *Legal Proceedings Administrator* || September 2009 to May 2010 || 
 
-Eessential role supporting legal professional by extracting case information related to non-compliance with Probation supervision
+- Eessential role supporting legal professional by extracting case information related to non-compliance with Probation supervision
 
 
 ## Other Interests
