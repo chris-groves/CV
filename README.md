@@ -1,12 +1,10 @@
 ## Chris Groves
 
-A full stack junior developer and an August 2019 graduate of the Makers Academy software development bootcamp. 
+**Junior Full Stack Developer**
 
-Prior to attending the bootcamp, I taught staff in the National Probation Service how to get the best from the organisation's internal software and applications. I enjoyed learning new software and then presenting my understanding to staff in creative and engaging ways.
+I began my studies at Makers Academy after a distinguished career in the Probation Servics. I succeeded in various roles, gaining experience of business support, data extraction and analysis and software training. 
 
-My role as a trainer gave me a great insight into how staff interact with applications. Colleagues would often ask about certain features and if they could be added or improved. At the time I did not know the technical answers to these but my desire to learn prompted me to investigate and ultimately chose a career in software development.
-
-I am looking for my first role in a supportive and ambitous team where I can add value and grow as a developer.
+My last role as a trainer gave me a great insight into how users interact with applications; I enjoyed seeing the value that new features would bring to my colleagues. This sparked my curiosity as to how software is developed and led me to choose a career as a developer. Moving forward I am excited about learning, growing and building applications that add real value to users as part of a supportive and ambitious team.
 
 | Project Name  | Details                                                                 | Tech Used                |
 | ------------- | ------------------------------------------------------------------------|--------------------------|
