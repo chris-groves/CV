@@ -4,7 +4,7 @@
 
 I began my studies at Makers Academy after a distinguished career in the Probation Servics. I succeeded in various roles, gaining experience of business support, data extraction and analysis and software training. 
 
-My last role as a trainer gave me a great insight into how users interact with applications; I enjoyed seeing the value that new features would bring to my colleagues. This sparked my curiosity as to how software is developed and led me to choose a career as a developer. Moving forward I am excited about learning, growing and building applications that add real value to users as part of a supportive and ambitious team.
+My last role as a trainer gave me a great insight into how users interact with applications; I enjoyed seeing the value that new features would bring to my colleagues. This sparked my curiosity as to how software is developed - I wanted to create these features and led me to choose a career as a developer. Moving forward I am excited about learning, growing and building applications that add real value to users as part of a supportive and ambitious team.
 
 | Project Name  | Details                                                                 | Tech Used                |
 | ------------- | ------------------------------------------------------------------------|--------------------------|
