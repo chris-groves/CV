@@ -10,9 +10,9 @@ My last role as a trainer gave me a great insight into how users interact with a
 
 | Project Name  | Details                                                                 | Tech Used                |
 | ------------- | ------------------------------------------------------------------------|--------------------------|
-| Acebook       | A clone of Facebook developed in a team of six using Agile              | Ruby on Rails, Travis CI, Rubocop, |               |                                                                  RubyCritic, ScaffoLint, SimpleCov |
-| Dragon Pirates| Beginning with the vision of developing a game, I collaborated in a team of six to bring this 2D side scroller game to life| C#, Unity, Visual Studio,  Android |
-| FizzBuzz      | I studied Python and a testing framework from scratch to write this program | Python and Unittest  |     
+| Acebook       | A clone of Facebook developed in a team of six using Agile              | Ruby on Rails, Travis CI, Rubocop,                                                                                             RubyCritic, ScaffoLint, SimpleCov | 
+| Dragon Pirates| Beginning with the vision of developing a game, I collaborated in a team of six to bring this 2D side scroller game to life                                                                     | C#, Unity, Visual Studio, Android |                                                                       
+| FizzBuzz      | I studied Python and a testing framework from scratch to write this program |Python and Unittest  |                                                                              
 
                                                            
                   
@@ -21,15 +21,22 @@ My last role as a trainer gave me a great insight into how users interact with a
 
 ### Committed Learner
 
-Working as an IT Trainer required me to always learn new applications and features. I needed to not only understand the new content but also be prepared to share it with staff whilst linking it to businesses processes. I supported a team who worked with service users convicted of sexual offences when a new application was released to manage their work. I began by learning the application's functionality and then linking this to day to day team operations, such as booking service users onto class sessions and recording attendance. 
+As an IT Trainer I supported a team who worked with people convicted of sexual offences when a new application was released to manage their work. I began by learning the application's functionality and day to day team processes. This ensured the team could use the application effectively for their needs.
 
-Whilst studying at Makers Academy, I picked up the ability to learn new languages and technologies. For my final team project I used Unity, C# and Visual Studio, with no prior experience, to bring the Dragon Pirates game to life. Since finishing the course I have learnt Python and its Unittest testing framework from scratch to write a 'Fizzbuzz' programme.
+Whilst studying at Makers, I picked up the ability to learn new languages and technologies. For my final team project I used Unity, C# and Visual Studio, with no prior experience, to bring the Dragon Pirates game to life. Since finishing the course I have learnt Python and its Unittest testing framework from scratch to write a 'Fizzbuzz' programme.
 
 ### Teamwork
 
-I am great at working with others to produce outcomes. Working as an IT Trainer, I collaborated with my counterparts across the country to produce a national curriculum. I was a new trainer at the time so it was a good opportunity to learn from more experienced colleagues and also offer fresh ideas. I co-wrote lesson plans and materials which were reviewed by my colleagues and provided my own feedback on work done by others. The result was a suite of lesson plans and materials which could be used by new and experienced trainers alike to ensure consistent content in training sessions across the country.
+I collaborated with my IT trainer counterparts to produce a national curriculum. I was a new trainer at the time so it was a great opportunity to learn from more experienced colleagues and offer my fresh ideas. I co-wrote lesson plans and supporting documents, feeding back on work done by others. The result was a set of materials which could be used by new and experienced trainers alike to ensure consistent training sessions across the country. I enjoyed seeing how working together, with our varying knowledge and experience, produced a great outcome.
 
-Makers team projects - Acebook
+### Communication
+
+I have strong communication skills, demonstrated during the Makers Facebook clone project. I researched continuous integration technology options to use in our project, playing an integral role in the decision made with a clear explanation of my findings and positive engagement in the team discussion. I led stand-ups and retros during the project, sharing my thoughts and encouraging everyone to contribute. I wrote clear commit messages such as ‘feat: restrict password length to max 10 characters’ and used a clear name for a feature branch: ‘likes-on-comments’. My efforts ensured the team collaborated effectively and produced a good Ruby on Rails product at the end of the two weeks.
+
+### Mentoring
+
+I have enjoyed the mentoring experience gained as a trainer side and at Makers. To compliment my love of learning, I am enthusiastic about sharing my knowledge and experience with others. I regularly attended process workshops at Makers which involved observing a fellow student tackle a problem, providing feedback on their process at the end. I paired with a variety of students, some further through the course than myself, others less so. It was great to support fellow students, regardless of their position in relation to mine. It also provided a great opportunity to reflect and further my own understanding. 
+
 
 ## Education
 
@@ -46,9 +53,9 @@ With study of:
 
 #### University of Reading (2006 to 2009)
 
-- Politics and International Relations BA
-- 2:1
-- Included study of landmark dates in history, sociology and contemporary social issues, ideologies, European Political Integration, Politics of the UK/US, politics between countries (the 'anarchical system') and politics in the Middle East. Dissertation assessed the contribution of General Elections to democracy in the UK.
+- Politics and International Relations BA 2:1
+- Included study of landmark dates in history, sociology and contemporary social issues, ideologies, European Political Integration, Politics of the UK/US, politics between countries (the 'anarchical system') and politics in the Middle East. 
+- Dissertation assessed the contribution of General Elections to democracy in the UK.
 
 #### Chislehurst and Sidcup Grammar School (1999 to 2006)
 
