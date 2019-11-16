@@ -6,11 +6,14 @@ I began my studies at Makers Academy after a distinguished career in the Probati
 
 My last role as a trainer gave me a great insight into how users interact with applications; I enjoyed seeing the value that new features would bring to my colleagues. This sparked my curiosity as to how software is developed - I wanted to create these features and led me to choose a career as a developer. Moving forward I am excited about learning, growing and building applications that add real value to users as part of a supportive and ambitious team.
 
+## Projects
+
 | Project Name  | Details                                                                 | Tech Used                |
 | ------------- | ------------------------------------------------------------------------|--------------------------|
-| Acebook       | A clone of Facebook developed in a team of six using Agile              | Ruby on Rails, Travis CI, Rubocop,                                                                                    RubyCritic, ScaffoLint, SimpleCov |
-| FizzBuzz      | I studied Python and a testing framework from scratch to write this program | Python and Unittest  |     
+| Acebook       | A clone of Facebook developed in a team of six using Agile              | Ruby on Rails, Travis CI, Rubocop, |               |                                                                  RubyCritic, ScaffoLint, SimpleCov |
 | Dragon Pirates| Beginning with the vision of developing a game, I collaborated in a team of six to bring this 2D side scroller game to life| C#, Unity, Visual Studio,  Android |
+| FizzBuzz      | I studied Python and a testing framework from scratch to write this program | Python and Unittest  |     
+
                                                            
                   
 
