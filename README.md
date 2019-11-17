@@ -33,7 +33,7 @@ I collaborated with my IT trainer counterparts to produce a national curriculum.
 
 I have strong communication skills, demonstrated during the Makers Facebook clone project. I researched continuous integration technology options to use in our project, playing an integral role in the decision made with a clear explanation of my findings and positive engagement in the team discussion. I led stand-ups and retros during the project, sharing my thoughts and encouraging everyone to contribute. I wrote clear commit messages such as ‘feat: restrict password length to max 10 characters’ and used a clear name for a feature branch: ‘likes-on-comments’. My efforts ensured the team collaborated effectively and produced a good Ruby on Rails product at the end of the two weeks.
 
-### Coach
+### Coaching
 
 I have enjoyed the coaching experience gained as a trainer and at Makers. To compliment my love of learning, I am enthusiastic about sharing my knowledge and experience with others. I regularly attended process workshops at Makers which involved observing a fellow student tackle a problem, providing feedback on their process at the end. I paired with a variety of students, some further through the course than myself, others less so. It was great to support fellow students, regardless of their position in relation to mine. It provided a great opportunity to reflect and further my own understanding too. 
 
