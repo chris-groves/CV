@@ -2,7 +2,7 @@
 
 **Junior Full Stack Developer**
 
-I began my studies at Makers Academy after a distinguished career in the Probation Servics. I succeeded in various roles, gaining experience of business support, data extraction and analysis and software training. 
+I began my studies at Makers Academy after a distinguished career in the Probation Service. I succeeded in various roles, gaining experience of business support, data extraction and analysis and software training. 
 
 My last role as a trainer gave me a great insight into how users interact with applications; I enjoyed seeing the value that new features would bring to my colleagues. This sparked my curiosity as to how software is developed - I wanted to create these features and led me to choose a career as a developer. Moving forward I am excited about learning, growing and building applications that add real value to users as part of a supportive and ambitious team.
 
@@ -27,7 +27,7 @@ Whilst studying at Makers, I picked up the ability to learn new languages and te
 
 ### Teamwork
 
-I collaborated with my IT trainer counterparts to produce a national curriculum. I was a new trainer at the time so it was a great opportunity to learn from more experienced colleagues and offer my fresh ideas. I co-wrote lesson plans and supporting documents, feeding back on work done by others. The result was a set of materials which could be used by new and experienced trainers alike to ensure consistent training sessions across the country. I enjoyed seeing how working together, with our varying knowledge and experience, produced a great outcome.
+I collaborated with my IT trainer counterparts to produce a national curriculum. I was a new trainer at the time so it was a great opportunity to learn from more experienced colleagues and offer my fresh ideas. I co-wrote lesson plans and supporting documents, feeding back on work done by others. The result was a set of materials which could be used by new and experienced trainers alike to ensure consistent training across the country. I enjoyed seeing how working together, with our varying knowledge and experience, produced a great outcome.
 
 ### Communication
 
@@ -35,7 +35,7 @@ I have strong communication skills, demonstrated during the Makers Facebook clon
 
 ### Coach
 
-I have enjoyed the coaching experience gained as a trainer and at Makers. To compliment my love of learning, I am enthusiastic about sharing my knowledge and experience with others. I regularly attended process workshops at Makers which involved observing a fellow student tackle a problem, providing feedback on their process at the end. I paired with a variety of students, some further through the course than myself, others less so. It was great to support fellow students, regardless of their position in relation to mine. It also provided a great opportunity to reflect and further my own understanding. 
+I have enjoyed the coaching experience gained as a trainer and at Makers. To compliment my love of learning, I am enthusiastic about sharing my knowledge and experience with others. I regularly attended process workshops at Makers which involved observing a fellow student tackle a problem, providing feedback on their process at the end. I paired with a variety of students, some further through the course than myself, others less so. It was great to support fellow students, regardless of their position in relation to mine. It provided a great opportunity to reflect and further my own understanding too. 
 
 
 ## Education
@@ -54,7 +54,7 @@ With study of:
 #### University of Reading (2006 to 2009)
 
 - Politics and International Relations BA 2:1
-- Included study of landmark dates in history, sociology and contemporary social issues, ideologies, European Political Integration, Politics of the UK/US, politics between countries (the 'anarchical system') and politics in the Middle East. 
+- Included study of landmark dates in history, contemporary social issues, ideologies, European Political Integration, Politics of the UK/US, politics between countries (the 'anarchical system') and politics in the Middle East. 
 - Dissertation assessed the contribution of General Elections to democracy in the UK.
 
 #### Chislehurst and Sidcup Grammar School (1999 to 2006)
@@ -66,7 +66,7 @@ With study of:
 
 **National Probation Service**  || *ICT Training Specialist* || September 2014 to April 2019
 
-- Sole responsibility for training over 1000 London users.
+- Sole responsibility for training over 1,000 London users
 - Viewed first hand how users interact with software/applications
 - Consistently delivered high quality training sessions using multiple delivery methods
 - Colloborated on design and production of national ICT training curriculum for around 8,000 staff
@@ -74,7 +74,7 @@ With study of:
 
 **National Probation Service** || *Business Support Manager* || March 2013 to September 2014
 
-- Influential in the development of a new specialist team for gand related offending
+- Influential in the development of a new specialist team for gang related offending
 - Crucial role in strategy and operation by providing data analysis and business support
 - Nurtured relationships with critical partners such as the Metropolitan Police and the London Mayor's Office for Policing and Crime
 
