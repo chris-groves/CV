@@ -12,7 +12,8 @@ My last role as a trainer gave me a great insight into how users interact with a
 | ------------- | ------------------------------------------------------------------------|--------------------------|
 | Acebook       | A clone of Facebook developed in a team of six using Agile              | Ruby on Rails, Travis CI, Rubocop,                                                                                             RubyCritic, ScaffoLint, SimpleCov | 
 | Dragon Pirates| Beginning with the vision of developing a game, I collaborated in a team of six to bring this 2D side scroller game to life                                                                     | C#, Unity, Visual Studio, Android |                                                                       
-| FizzBuzz      | I studied Python and a testing framework from scratch to write this program |Python and Unittest  |                                                                              
+| FizzBuzz      | I studied Python and a testing framework from scratch to write this program |Python and Unittest  |  
+| Algorithms    | A project to deepen my understanding of algorithms. I began my measuring the time to run some basic Ruby methods. I moved onto writing my own code to, for example, sort an array. The current stage involves timing this code. | Ruby, RSpec |
 
                                                            
                   
